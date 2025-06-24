@@ -1,4 +1,4 @@
-# TP3 - Procesamiento de Imágenes (PDI)
+# TP3 - Deteccion de carriles
 
 ## Descripción del Ejercicio
 
